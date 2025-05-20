@@ -1,0 +1,20 @@
+Ethical Hacking \
+Un'introduzione
+Matteo Savatteri
+(Sysadmin @ UniMi)
+2025-05-23
+
+@pentest_phases.jpeg
+
+depends on
+- Xlib
+- farbfeld
+
+sent FILENAME
+one slide per paragraph
+# This is a comment and will not be part of the presentation
+\# This and the next line start with backslashes
+
+\@FILE.png
+
+thanks / questions?
