@@ -11,10 +11,28 @@ Un'esperienza comunitaria a fisica
 
 @lcm.png
 
-sent FILENAME
-one slide per paragraph
-# This is a comment and will not be part of the presentation
-\# This and the next line start with backslashes
+Cosa faremo oggi:
++ cos'è hacking etico? Perché è importante?
++ concetti base sicurezza informatica;
++ introduzione a piattaforma TryHackMe;
++ caso di attacco reale.
+
+“The approach and actions associated with security risk management processes
+followed by organizations and states to protect confidentiality, integrity and
+availability of data and assets used in cyber space. [...]”
+\
+Schatz, Daniel; Bashroush, Rabih; and Wall, Julie (2017)
+"Towards a More Representative Definition of Cyber Security,"
+Journal of Digital Forensics, Security and Law: Vol. 12 , Article 8.
+
+Chi sono gli hacker:
+👨‍💻 White Hat: hacker etici, aiutano a trovare e correggere vulnerabilità
+🕶️  Black Hat: hacker malintenzionati, spesso criminali informatici
+🧥  Grey Hat: operano in zone grigie, spesso senza permesso ma senza fini
+   distruttivi
+\
+L’ethical hacking è legale, autorizzato, documentato e orientato alla difesa.
+
 
 \@FILE.png
 
