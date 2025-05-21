@@ -4,11 +4,12 @@
 (Sysadmin @ INDACO/UniMi)
       2025-05-23
 
-@pentest_phases.jpeg
+               LCM
+Laboratorio di Calcolo e Multimedia
+\
+Un'esperienza comunitaria a fisica
 
-depends on
-- Xlib
-- farbfeld
+@lcm.png
 
 sent FILENAME
 one slide per paragraph
