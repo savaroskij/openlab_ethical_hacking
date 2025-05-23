@@ -17,6 +17,8 @@ Cosa faremo oggi:
 + introduzione a piattaforma TryHackMe;
 + caso di attacco reale.
 
+su cybersec:
+\
 “The approach and actions associated with security risk management processes
 followed by organizations and states to protect confidentiality, integrity and
 availability of data and assets used in cyber space. [...]”
@@ -63,7 +65,9 @@ Su TryHackMe:
 through your browser, with blue, red and purple team content for all skill
 levels.”
 
-tryhackme.com
+Facciamoci un account qui:
+\
+      tryhackme.com
 
 Altre risorse utili:
 + Hack The Box;
